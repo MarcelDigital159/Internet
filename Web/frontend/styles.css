@@ -1,0 +1,51 @@
+.header {
+    background-color: black;
+    
+}
+
+.inner-header {
+    justify-content: space-between;
+    width: 100%;
+}
+.head {
+    color: aliceblue;
+    margin-top: 5px;
+}
+
+button {
+    background-color: #ccc;
+    border-radius: 5px;
+}
+
+.help {
+    background-color: blueviolet;
+    text-align: center;
+
+}
+
+body {
+    background-color: bisque;
+    width: 100%;
+}
+
+h2 {
+    text-align: center;
+}
+
+.footer-container {
+    background-color: black;
+}
+
+.footer-column {
+    color: aliceblue;
+    
+}
+
+.footer-copyright {
+    color: antiquewhite;
+}
+
+.inner-container {
+    color: aliceblue;
+}
+
